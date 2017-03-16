@@ -14,6 +14,7 @@
   "homepage": "http://scratchtheme.com",
   "dependencies": {
     "glidejs": "^2.0.8",
+    "grunt-cli": "^1.2.0",
     "ionicons": "^2.0.1",
     "magnific-popup": "^1.1.0",
     "normalize.css": "^4.1.1",
